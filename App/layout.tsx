@@ -17,7 +17,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "BaseHealth - Secure Health Records on Base",
   description: "Decentralized health data locker on Base blockchain",
-    generator: 'v0.app'
+
 }
 
 export default function RootLayout({
